@@ -1,4 +1,5 @@
-## Oiii! Eu sou o Jorge Eduardo
+## Olá tudo bem? Aqui é o Jorge Eduardo! 
+### Seja bem-vindo ao meu perfil do github.
  <div>
   <a href="https://github.com/jeduoliveira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeduoliveira&show_icons=true&theme=&include_all_commits=true&count_private=true"/>
