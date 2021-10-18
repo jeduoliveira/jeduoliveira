@@ -1,5 +1,17 @@
-## Olá tudo bem? Aqui é o Jorge Eduardo! 
-### Seja bem-vindo ao meu perfil do github.
+## Olá tudo bem? Aqui é o Jorge Eduardo!  👋
+
+
+
+### Connect with me:
+
+[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
+
  <div>
   <a href="https://github.com/jeduoliveira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeduoliveira&show_icons=true&theme=&include_all_commits=true&count_private=true"/>
