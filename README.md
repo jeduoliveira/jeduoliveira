@@ -6,7 +6,6 @@
 
 [<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -41,3 +40,9 @@
  
  
 </div>
+ 
+
+[twitter]: https://twitter.com/jeduoliveira
+[youtube]: https://www.youtube.com/channel/UCyk53YdLhr8ptgE_gK-bqFQ
+[instagram]: https://www.instagram.com/jeduoliveira/
+[linkedin]: https://www.linkedin.com/in/jeduoliveira/
