@@ -29,7 +29,6 @@
 <img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
 <img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/jeduoliveira/jeduoliveira/master/Tools_icons/grafana.png" />
 <img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/jeduoliveira/jeduoliveira/master/Tools_icons/helm.png" />
-
 <img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/jeduoliveira/jeduoliveira/master/Tools_icons/kubernetes.png" />
 <img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/jeduoliveira/jeduoliveira/master/Tools_icons/nexus.png" />
 <img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/jeduoliveira/jeduoliveira/master/Tools_icons/prometheus.png" />
