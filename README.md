@@ -17,23 +17,23 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/deekshithsn/DeekshithSN/master/Tools_icons/linux.png" />
-<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/deekshithsn/DeekshithSN/master/Tools_icons/shell.jpg" />
-<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/deekshithsn/DeekshithSN/master/Tools_icons/git.png" />
-<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/deekshithsn/DeekshithSN/master/Tools_icons/github.png" />
-<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/deekshithsn/DeekshithSN/master/Tools_icons/maven.jpg" />
-<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/deekshithsn/DeekshithSN/master/Tools_icons/sonarqube.png" />
-<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/deekshithsn/DeekshithSN/master/Tools_icons/jenkins.png" />
-<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/deekshithsn/DeekshithSN/master/Tools_icons/Ansible.png" />
-<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/deekshithsn/DeekshithSN/master/Tools_icons/aws.png" />
+<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/jeduoliveira/jeduoliveira/master/Tools_icons/linux.png" />
+<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/jeduoliveira/jeduoliveira/master/Tools_icons/shell.jpg" />
+<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/jeduoliveira/jeduoliveira/master/Tools_icons/git.png" />
+<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/jeduoliveira/jeduoliveira/master/Tools_icons/github.png" />
+<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/jeduoliveira/jeduoliveira/master/Tools_icons/maven.jpg" />
+<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/jeduoliveira/jeduoliveira/master/Tools_icons/sonarqube.png" />
+<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/jeduoliveira/jeduoliveira/master/Tools_icons/jenkins.png" />
+<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/jeduoliveira/jeduoliveira/master/Tools_icons/Ansible.png" />
+<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/jeduoliveira/jeduoliveira/master/Tools_icons/aws.png" />
 <img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
-<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/deekshithsn/DeekshithSN/master/Tools_icons/grafana.png" />
-<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/deekshithsn/DeekshithSN/master/Tools_icons/helm.png" />
-<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/deekshithsn/DeekshithSN/master/Tools_icons/jfrog.png" />
-<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/deekshithsn/DeekshithSN/master/Tools_icons/kubernetes.png" />
-<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/deekshithsn/DeekshithSN/master/Tools_icons/nexus.png" />
-<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/deekshithsn/DeekshithSN/master/Tools_icons/prometheus.png" />
-<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/deekshithsn/DeekshithSN/master/Tools_icons/teraform.png" />
+<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/jeduoliveira/jeduoliveira/master/Tools_icons/grafana.png" />
+<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/jeduoliveira/jeduoliveira/master/Tools_icons/helm.png" />
+<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/jeduoliveira/jeduoliveira/master/Tools_icons/jfrog.png" />
+<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/jeduoliveira/jeduoliveira/master/Tools_icons/kubernetes.png" />
+<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/jeduoliveira/jeduoliveira/master/Tools_icons/nexus.png" />
+<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/jeduoliveira/jeduoliveira/master/Tools_icons/prometheus.png" />
+<img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/jeduoliveira/jeduoliveira/master/Tools_icons/teraform.png" />
 <img align="left" alt="Unix" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 
 <br />
